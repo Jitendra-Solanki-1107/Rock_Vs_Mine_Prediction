@@ -15,3 +15,4 @@ There is war is going on between two countries submarine of the country is going
 ## Based on above model we can predict whether a object is Rock or Mine
 
 ![Screenshot_1](https://user-images.githubusercontent.com/103004019/168062965-0eb8dfb4-0ded-4273-a149-a03c384a1d96.png)
+ 
