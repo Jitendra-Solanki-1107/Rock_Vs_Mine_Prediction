@@ -6,10 +6,10 @@ There is war is going on between two countries submarine of the country is going
 
 ## Four Steps involved in the model
 
-01 Begin by collecting SONAR data and understanding the content of the dataset
-02 Preprocess data
-03 Train - Test data
-04 Feed a logistic regression model after determining data subset to be satisfactory
+01. Begin by collecting SONAR data and understanding the content of the dataset
+02. Preprocess data
+03. Train - Test data
+04. Feed a logistic regression model after determining data subset to be satisfactory
 
 
 ## Based on above model we can predict whether a object is Rock or Mine
